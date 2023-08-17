@@ -3839,8 +3839,8 @@ h1.page-title + .tag-cloud-list {
   -o-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
   transform: translateX(-50%);
-  height: 175%;
-  width: 9.99%;
+  height: 106px;
+  width: 106px;
   background: url("https://tuku-1314193757.cos.ap-guangzhou.myqcloud.com/img/logo.jpg") no-repeat center bottom;
   background-size: 100% auto;
   border-radius: 50%;
